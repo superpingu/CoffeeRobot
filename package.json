@@ -1,0 +1,24 @@
+{
+  "name": "@superpingu/coffeerobot",
+  "version": "0.1.0",
+  "description": "js framework to control robots",
+  "main": "lib/robot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superpingu/CoffeeRobot.git"
+  },
+  "author": "superpingu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superpingu/CoffeeRobot/issues"
+  },
+  "homepage": "https://github.com/superpingu/CoffeeRobot#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-spies": "^0.7.1"
+  }
+}
